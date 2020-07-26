@@ -1,4 +1,4 @@
-# Bigdataplatform_Python_Class_Note
+# BigdataplatformClass_Python_Note
 
 Python의 강의는 총 6일.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
